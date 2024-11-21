@@ -4,7 +4,7 @@
 
 ## 🛠 Skills & Expertise
 
-- **Data Science**: Statistics, Predictive Analytics, Exploratory Data Analysis, Machine Learning, Deep Learning, Data Visualization, Big Data Analytics, Data Engineering, Python, Tableau, MySQL, Advanced Excel
+- **Data Science** (ongoing learning): Statistics, Predictive Analytics, Exploratory Data Analysis, Machine Learning, Deep Learning, Data Visualization, Big Data Analytics, Data Engineering, Python, Tableau, MySQL, Advanced Excel
 - **Laboratory Quality Assurance**: ISO 15189, 17043, 35001
 - **Microbiology & Immunology**
 - **Vaccine Development & Quality Control**
